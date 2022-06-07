@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Renê Toledo</h1>
+<h4 align="center">Este projeto foi desenvolvido na aula de Introdução à Tecnologia Web: 1° Periodo de Sistema de Informação 🚀</h4>
 <h6 align="center">Visualize o projeto em : https://renetoledoo.github.io/site-iphone/ </h6>
-<h4 align="center">Este projeto foi desenvolvido na aula de Introdução à Tecnologia Web 🚀</h4>
 <h5 align="left"> 🖥️ As tecnologias Front-End utilizada nesse site foi:</h5>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
